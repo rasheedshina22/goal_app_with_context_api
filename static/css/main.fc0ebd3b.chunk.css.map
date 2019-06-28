@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,QACE,SACF,CACA,MACE,WACF","file":"main.fc0ebd3b.chunk.css","sourcesContent":[".delete {\r\n  color: red;\r\n}\r\n.edit {\r\n  color: green;\r\n}\r\n"]}
